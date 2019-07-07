@@ -1,4 +1,4 @@
-ckend:
+backend:
   name: git-gateway
   branch: master
 
